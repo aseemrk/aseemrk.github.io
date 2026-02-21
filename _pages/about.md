@@ -28,3 +28,8 @@ latest_posts:
 ---
 
 I am a scientist working at the interface of physics, materials science, and chemistry. I am an expert in computational description of the electronic structure of materials. My key reserach interst is to understand light-matter interaction in materials, and to predict and/or diagnose the spectroscopic signature of such interaction. 
+
+
+Current reserach:  
+
+Hybrid organic-inorganic metal-halides are a technologically relevant class of materials as they exhibit efficient absorption and emission of light. They also constitute a unique playground for engineering chiral materials by introducing chiral organic components. This class of chiral materials has shown remarkable chiro-optical properties such as circular dichroism (CD) and circularly polarised photoluminescence (CPPL) emerging from the inorganic metal-halide components. I am currently investigating circular dichroism in chiral metal-halide perovskites using ab initio electronic structure methods to establish clear structure-property relations.
