@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Make Our Planet Great Again (MOPGA) early career researcher fellow (Campus France and French Government) </a>. Address. Contacts. Motto. Etc.
+subtitle:  Make Our Planet Great Again (MOPGA) early career researcher fellow (Campus France and French Government)  Address. Contacts. Motto. Etc.
 
 profile:
   align: right
