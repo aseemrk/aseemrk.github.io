@@ -462,11 +462,6 @@ ninja.data = [{
           description: "This course is designed for first year undergraduates of CPES  preparatory training.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/initiation_to_research/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/temporarily_stored_files/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
