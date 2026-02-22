@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Initiation to Reserach --  Energy in Chemistry
-description: This course is designed for first year undergraduates, as a part of highly selective [CPES](https://formations.univ-rennes.fr/parcours/cycle-pluridisciplinaire-detudes-superieures-cpes-sciences-environnement-societe-sens) preparatory training. 
+description: This course is designed for first year undergraduates, as a part of highly selective <a href="https://formations.univ-rennes.fr/parcours/cycle-pluridisciplinaire-detudes-superieures-cpes-sciences-environnement-societe-sens">CPES</a>  preparatory training. 
 instructor: Dr. Aseem Kshirsagar and Prof. Xavier Rocquefelte
 year: 2025-26
 term: Fall
