@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: CV
- nav: true
- nav_order: 5
+nav: true
+nav_order: 5
 cv_pdf: /assets/pdf/Aseem_Long_CV.pdf # you can also use external links here
 #cv_format: false #rendercv # options: rendercv, jsonresume
 description: Please click on pdf icon to download the CV. 
