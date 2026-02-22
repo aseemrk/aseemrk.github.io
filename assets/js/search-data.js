@@ -458,8 +458,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-initiation-to-reserach-energy-in-chemistry",
-          title: 'Initiation to Reserach --  Energy in Chemistry',
-          description: "This course is designed for first year undergraduates, as a part of highly selective CPES  preparatory training.",
+          title: 'Initiation to Reserach - Energy in Chemistry',
+          description: "This course is designed for first year undergraduates of CPES  preparatory training.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/initiation_to_research/";
             },},{id: "teachings-introduction-to-machine-learning",
