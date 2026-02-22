@@ -398,15 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-joined-iscr-as-a-mopga-early-career-research-fellow-to-work-on-a-project-stabilizing-halide-perovskites-for-efficient-and-durable-solar-cells-more-details",
+            },},{id: "news-i-joined-iscr-as-a-mopga-early-career-research-fellow-to-work-on-a-project-stabilizing-halide-perovskites-for-efficient-and-durable-solar-cells-more-details",
           title: 'I joined ISCR as a MOPGA early career research fellow to work on...',
           description: "",
           section: "News",},{id: "news-i-received-a-seal-of-excellence-for-my-research-proposal-theoretical-spectroscopy-of-chiral-materials-tschimat-submitted-under-the-horizon-europe-marie-skłodowska-curie-actions-call-2025",
