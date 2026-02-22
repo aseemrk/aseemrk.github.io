@@ -78,7 +78,7 @@ Defines social media links and contact information displayed on the site.
 
 ```yaml
 cv_pdf: /assets/pdf/Aseem_Long_CV.pdf
-email: aseem-rajan.kshirsagar@univ-rennes.fr
+email: aseem-rajan.kshirsagar@univ-rennes.fr, aseem@posteo.eu
 scholar_userid: exa372MAAAAJ&hl=en
 github_username: aseemrk
 linkedin_username: aseemrk
@@ -121,7 +121,7 @@ Social media citation counts and metrics.
 **Example:**
 
 ```yaml
-scholar_userid: YOUR_SCHOLAR_ID
+scholar_userid: exa372MAAAAJ&hl=en
 ```
 
 ### repositories.yml
