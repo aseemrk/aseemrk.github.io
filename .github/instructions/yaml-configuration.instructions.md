@@ -75,7 +75,7 @@ Defines social media links and contact information displayed on the site.
 **Example:**
 
 ```yaml
-cv_pdf: /assets/pdf/example_pdf.pdf
+cv_pdf: /assets/pdf/Aseem_Long_CV.pdf
 email: aseem-rajan.kshirsagar@univ-rennes.fr
 scholar_userid: exa372MAAAAJ&hl=en
 github_username: aseemrk
