@@ -501,11 +501,6 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-initiation-to-reserach-energy-in-chemistry",
           title: 'Initiation to Reserach --  Energy in Chemistry',
-          description: "This course is designed for first year undergraduates, as a part of highly selective [CPES]https://formations.univ-rennes.fr/parcours/cycle-pluridisciplinaire-detudes-superieures-cpes-sciences-environnement-societe-sens) preparatory training.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-initiation-to-reserach-energy-in-chemistry",
-          title: 'Initiation to Reserach --  Energy in Chemistry',
           description: "This course is designed for first year undergraduates, as a part of highly selective [CPES](https://formations.univ-rennes.fr/parcours/cycle-pluridisciplinaire-detudes-superieures-cpes-sciences-environnement-societe-sens) preparatory training.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/initiation_to_research/";
