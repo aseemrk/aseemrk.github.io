@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Make Our Planet Great Again (MOPGA) early career researcher fellow (Campus France and French Government). <br> Institut des Sciences Chimiques de Rennes (ISCR), CNRS, University of Rennes, France. 
+subtitle:  "**Make Our Planet Great Again (MOPGA) early career researcher fellow (Campus France and French Government). <br> Institut des Sciences Chimiques de Rennes (ISCR), CNRS, University of Rennes, France **"
 
 profile:
   align: right
