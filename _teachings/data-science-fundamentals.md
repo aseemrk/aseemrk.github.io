@@ -5,6 +5,7 @@ description: This course is designed for first year undergraduates, as a part of
 instructor: Dr. Aseem Kshirsagar and Prof. Xavier Rocquefelte
 year: 2025-26
 term: Fall
+---
 
 
 ## Course Overview
