@@ -64,6 +64,8 @@ Defines social media links and contact information displayed on the site.
 - `scholar_userid:` – Google Scholar ID
 - `inspirehep_id:` – Inspire HEP author ID
 - `rss_icon:` – Boolean to show/hide RSS icon
+- `github_username:` – GitHub username
+- `linkedin_username:` – LinkedIn username
 - And many others (see [jekyll-socials documentation](https://github.com/george-gca/jekyll-socials) for full list)
 
 **For custom socials:** Define a custom entry with nested fields:
