@@ -1,12 +1,12 @@
 ---
 layout: course
-title: Initiation to Reserach: Energy in Chemistry
+title: Initiation to Reserach --  Energy in Chemistry
 description: This course is designed for first year undergraduates, as a part of highly selective [CPES]https://formations.univ-rennes.fr/parcours/cycle-pluridisciplinaire-detudes-superieures-cpes-sciences-environnement-societe-sens) preparatory training. 
 instructor: Dr. Aseem Kshirsagar and Prof. Xavier Rocquefelte
 year: 2025-26
 term: Fall
 
-<!--
+
 ## Course Overview
 
 This course provides a comprehensive introduction to data science principles and practices. Students will:
@@ -32,4 +32,3 @@ This course provides a comprehensive introduction to data science principles and
 - Assignments: 50%
 - Project: 40%
 - Participation: 10%
--->
