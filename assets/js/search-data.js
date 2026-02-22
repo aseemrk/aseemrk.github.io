@@ -517,18 +517,18 @@ ninja.data = [{
           window.open("mailto:%61%73%65%65%6D-%72%61%6A%61%6E.%6B%73%68%69%72%73%61%67%61%72@%75%6E%69%76-%72%65%6E%6E%65%73.%66%72", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=exa372MAAAAJ&hl=en", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/aseemrk", "_blank");
         },
       },{
       id: 'light-theme',
