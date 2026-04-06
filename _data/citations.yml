@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Understanding electronic excited states in  via ab initio calculations and symmetry analysis
     year: '2024'
   exa372MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 18
     title: "Bethe\u2013Salpeter Study of the Optical Absorption of trans and cis Azobenzene-Functionalized Metal\u2013Organic Frameworks Using Molecular and Periodic Models"
     year: '2021'
   exa372MAAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: On the Origin of Circularly Polarized Luminescence in Chiral One-Dimensional (A)PbBr3 Single Crystals
     year: '2025'
   exa372MAAAAJ:YsMSGLbcyi4C:
-    citations: 53
+    citations: 54
     title: Twin boundary migration in an individual platinum nanocrystal during catalytic CO oxidation
     year: '2021'
   exa372MAAAAJ:Zph67rFs4hoC:
