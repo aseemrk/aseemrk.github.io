@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-08'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Photoswitching metal-organic frameworks for efficient gas capture-and-release applications
     year: '2022'
+  exa372MAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: New Empirical models for excitonic polarons induced by multiple polar modes and abinitio approach to optoelectronic properties in locally disordered 3D halide perovskites
+    year: '2026'
   exa372MAAAAJ:8k81kl-MbHgC:
     citations: 6
     title: "A Combined Theoretical and Experimental Raman Scattering Study of BaZrS3\u2212BaHfS3 Solid Solutions"
@@ -14,7 +18,7 @@ papers:
     title: Flipping of electronic spins in  via chiral  excitations
     year: '2025'
   exa372MAAAAJ:LkGwnXOMwfcC:
-    citations: 94
+    citations: 97
     title: Reconfigurable multifunctional van der Waals ferroelectric devices and logic circuits
     year: '2023'
   exa372MAAAAJ:MXK_kJrjxJIC:
@@ -26,7 +30,7 @@ papers:
     title: Understanding electronic excited states in  via ab initio calculations and symmetry analysis
     year: '2024'
   exa372MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 19
     title: "Bethe\u2013Salpeter Study of the Optical Absorption of trans and cis Azobenzene-Functionalized Metal\u2013Organic Frameworks Using Molecular and Periodic Models"
     year: '2021'
   exa372MAAAAJ:ULOm3_A8WrAC:
