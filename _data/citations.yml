@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-13'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: New Empirical models for excitonic polarons induced by multiple polar modes and abinitio approach to optoelectronic properties in locally disordered 3D halide perovskites
     year: '2026'
   exa372MAAAAJ:8k81kl-MbHgC:
-    citations: 6
+    citations: 7
     title: "A Combined Theoretical and Experimental Raman Scattering Study of BaZrS3\u2212BaHfS3 Solid Solutions"
     year: '2024'
   exa372MAAAAJ:KlAtU1dfN6UC:
@@ -52,7 +52,7 @@ papers:
   exa372MAAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: On the Origin of Circularly Polarized Luminescence in Chiral One-Dimensional (A)PbBr3 Single Crystals
-    year: '2025'
+    year: '2026'
   exa372MAAAAJ:YsMSGLbcyi4C:
     citations: 54
     title: Twin boundary migration in an individual platinum nanocrystal during catalytic CO oxidation
@@ -67,7 +67,7 @@ papers:
     year: '2023'
   exa372MAAAAJ:_kc_bZDykSQC:
     citations: 0
-    title: Diketopyrrolopyrrole organic cations as strategy for iodide and lead-free hybrid metalhalide based photoconductors
+    title: "Diketopyrrolopyrrole organic cations as strategy for iodide and lead-free hybrid metal\u2013halide based photoconductors"
     year: '2026'
   exa372MAAAAJ:d1gkVwhDpl0C:
     citations: 0
