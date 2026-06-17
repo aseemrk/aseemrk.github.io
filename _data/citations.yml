@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-17'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -18,9 +18,13 @@ papers:
     title: Flipping of electronic spins in  via chiral  excitations
     year: '2025'
   exa372MAAAAJ:LkGwnXOMwfcC:
-    citations: 100
+    citations: 102
     title: Reconfigurable multifunctional van der Waals ferroelectric devices and logic circuits
     year: '2023'
+  exa372MAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: "\xC9tude computationnelle des MOF pour une capture efficace du carbone"
+    year: Unknown Year
   exa372MAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: 'Optical properties of molecular photoswitches and metal-organic frameworks: a GW/BSE perspective'
