@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-29'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -18,13 +18,9 @@ papers:
     title: Flipping of electronic spins in  via chiral  excitations
     year: '2025'
   exa372MAAAAJ:LkGwnXOMwfcC:
-    citations: 102
+    citations: 104
     title: Reconfigurable multifunctional van der Waals ferroelectric devices and logic circuits
     year: '2023'
-  exa372MAAAAJ:M3ejUd6NZC8C:
-    citations: 0
-    title: "\xC9tude computationnelle des MOF pour une capture efficace du carbone"
-    year: Unknown Year
   exa372MAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: 'Optical properties of molecular photoswitches and metal-organic frameworks: a GW/BSE perspective'
@@ -38,7 +34,7 @@ papers:
     title: "Bethe\u2013Salpeter Study of the Optical Absorption of trans and cis Azobenzene-Functionalized Metal\u2013Organic Frameworks Using Molecular and Periodic Models"
     year: '2021'
   exa372MAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: Theoretical approaches to Fr\" ohlich excitonic polarons in polar semiconductors
     year: '2025'
   exa372MAAAAJ:UebtZRa9Y70C:
@@ -50,7 +46,7 @@ papers:
     title: "\xC9tude ab initio des propri\xE9t\xE9s de l'\xE9tat excit\xE9 des MOF photosensibles fonctionnalis\xE9es \xE0 l'azobenz\xE8ne"
     year: '2021'
   exa372MAAAAJ:Y0pCki6q_DkC:
-    citations: 34
+    citations: 35
     title: "Strongly bound excitons in metal\u2013organic framework MOF-5: A many-body perturbation theory study"
     year: '2021'
   exa372MAAAAJ:YOwf2qJgpHMC:
@@ -58,7 +54,7 @@ papers:
     title: On the Origin of Circularly Polarized Luminescence in Chiral One-Dimensional (A)PbBr3 Single Crystals
     year: '2026'
   exa372MAAAAJ:YsMSGLbcyi4C:
-    citations: 55
+    citations: 56
     title: Twin boundary migration in an individual platinum nanocrystal during catalytic CO oxidation
     year: '2021'
   exa372MAAAAJ:Zph67rFs4hoC:
