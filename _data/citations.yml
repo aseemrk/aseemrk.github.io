@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Flipping of electronic spins in  via chiral  excitations
     year: '2025'
   exa372MAAAAJ:LkGwnXOMwfcC:
-    citations: 112
+    citations: 113
     title: Reconfigurable multifunctional van der Waals ferroelectric devices and logic circuits
     year: '2023'
   exa372MAAAAJ:MXK_kJrjxJIC:
@@ -26,7 +26,7 @@ papers:
     title: 'Optical properties of molecular photoswitches and metal-organic frameworks: a GW/BSE perspective'
     year: '2023'
   exa372MAAAAJ:Se3iqnhoufwC:
-    citations: 2
+    citations: 3
     title: Understanding electronic excited states in  via ab initio calculations and symmetry analysis
     year: '2024'
   exa372MAAAAJ:Tyk-4Ss8FVUC:
@@ -46,15 +46,15 @@ papers:
     title: "\xC9tude ab initio des propri\xE9t\xE9s de l'\xE9tat excit\xE9 des MOF photosensibles fonctionnalis\xE9es \xE0 l'azobenz\xE8ne"
     year: '2021'
   exa372MAAAAJ:Y0pCki6q_DkC:
-    citations: 35
+    citations: 36
     title: "Strongly bound excitons in metal\u2013organic framework MOF-5: A many-body perturbation theory study"
     year: '2021'
   exa372MAAAAJ:YOwf2qJgpHMC:
     citations: 0
-    title: On the Origin of Circularly Polarized Luminescence in Chiral One-Dimensional (A) PbBr3 Single Crystals
-    year: '2025'
+    title: On the Origin of Circularly Polarized Luminescence in Chiral One-Dimensional (A)PbBr3 Single Crystals
+    year: '2026'
   exa372MAAAAJ:YsMSGLbcyi4C:
-    citations: 56
+    citations: 58
     title: Twin boundary migration in an individual platinum nanocrystal during catalytic CO oxidation
     year: '2021'
   exa372MAAAAJ:Zph67rFs4hoC:
@@ -82,7 +82,7 @@ papers:
     title: Empirical approaches to Frohlich excitonic polarons in polar semiconductors with application to 3D halide perovskites
     year: '2025'
   exa372MAAAAJ:qjMakFHDy7sC:
-    citations: 18
+    citations: 17
     title: Accurate prediction of the S1 excitation energy in solvated azobenzene derivatives via embedded orbital-tuned Bethe-Salpeter calculations
     year: '2020'
   exa372MAAAAJ:u-x6o8ySG0sC:
@@ -90,6 +90,6 @@ papers:
     title: First-Principles Investigation of MoS2-MXene Heterostructures as Cathodes in Magnesium Ion Batteries
     year: '2017'
   exa372MAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 35
     title: "Tuning gas adsorption by metal node blocking in photoresponsive metal\u2013Organic frameworks"
     year: '2018'
