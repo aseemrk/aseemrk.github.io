@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-02'
 papers:
   exa372MAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Photoswitching metal-organic frameworks for efficient gas capture-and-release applications
     year: '2022'
+  exa372MAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Understanding circular dichroism and circular birefringence in TeO2
+    year: '2026'
   exa372MAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: New Empirical models for excitonic polarons induced by multiple polar modes and abinitio approach to optoelectronic properties in locally disordered 3D halide perovskites
@@ -45,6 +49,10 @@ papers:
     citations: 0
     title: "\xC9tude ab initio des propri\xE9t\xE9s de l'\xE9tat excit\xE9 des MOF photosensibles fonctionnalis\xE9es \xE0 l'azobenz\xE8ne"
     year: '2021'
+  exa372MAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: 'Chirality transfer in hybrid organic-inorganic materials: role of chiral vibrational modes'
+    year: '2025'
   exa372MAAAAJ:Y0pCki6q_DkC:
     citations: 36
     title: "Strongly bound excitons in metal\u2013organic framework MOF-5: A many-body perturbation theory study"
@@ -69,6 +77,10 @@ papers:
     citations: 0
     title: "Diketopyrrolopyrrole organic cations as strategy for iodide and lead-free hybrid metal\u2013halide based photoconductors"
     year: '2026'
+  exa372MAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Understanding circular dichroism in halide perovskites with structural chirality
+    year: '2026'
   exa372MAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Photoactive metal-organic frameworks for gas separation
@@ -85,6 +97,10 @@ papers:
     citations: 17
     title: Accurate prediction of the S1 excitation energy in solvated azobenzene derivatives via embedded orbital-tuned Bethe-Salpeter calculations
     year: '2020'
+  exa372MAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'Theoretical description of circular dichroism in solids: new directions'
+    year: '2025'
   exa372MAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: First-Principles Investigation of MoS2-MXene Heterostructures as Cathodes in Magnesium Ion Batteries
